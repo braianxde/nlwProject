@@ -6,14 +6,14 @@ O intuito do projeto e de criar um Website para cadastro de pontos de coleta, um
 
 Imagens Mobile:
 
-(/../master/MOBO1.jpg?raw=true)
+![Alt text](/../master/MOBO1.jpg?raw=true)
 
-(/../master/MOBO2.jpg?raw=true)
+![Alt text](/../master/MOBO2.jpeg?raw=true)
 
-(/../master/MOBO3.jpg?raw=true)
+![Alt text](/../master/MOBO3.jpeg?raw=true)
 
 Imagens WEB
 
-![Alt text](/../master/WEB1.jpg?raw=true)
+![Alt text](/../master/WEB1.png?raw=true)
 
-![Alt text](/../master/WEB2.jpg?raw=true)
+![Alt text](/../master/WEB2.png?raw=true)
