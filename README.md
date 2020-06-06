@@ -8,7 +8,7 @@ Imagens Mobile:
 
 ![Alt text](/../master/MOBO1.jpg?raw=true)
 
-![Alt text](/../master/mobo2.jpg?raw=true)
+![Alt text](/../master/MOBO2.jpg?raw=true)
 
 ![Alt text](/../master/MOBO3.jpg?raw=true)
 
