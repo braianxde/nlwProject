@@ -6,6 +6,10 @@ O intuito do projeto e de criar um Website para cadastro de pontos de coleta, um
 
 Imagens Mobile:
 
+<div align="center">
+    <img src="/../master/MOBO1.jpg" width="400px"</img> 
+</div>
+
 ![Alt text](/../master/MOBO1.jpg?raw=true)
 
 ![Alt text](/../master/MOBO2.jpeg?raw=true)
