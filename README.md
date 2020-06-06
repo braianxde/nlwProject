@@ -10,14 +10,20 @@ Imagens Mobile:
     <img src="/../master/MOBO1.jpg" width="400px"</img> 
 </div>
 
-![Alt text](/../master/MOBO1.jpg?raw=true)
+<div align="center">
+    <img src="/../master/MOBO2.jpeg" width="400px"</img> 
+</div>
 
-![Alt text](/../master/MOBO2.jpeg?raw=true)
-
-![Alt text](/../master/MOBO3.jpeg?raw=true)
+<div align="center">
+    <img src="/../master/MOBO3.jpeg" width="400px"</img> 
+</div>
 
 Imagens WEB
 
-![Alt text](/../master/WEB1.PNG?raw=true)
+<div align="center">
+    <img src="/../master/WEB1.PNG" width="400px"</img> 
+</div>
 
-![Alt text](/../master/WEB2.PNG?raw=true)
+<div align="center">
+    <img src="/../master/WEB2.PNG" width="400px"</img> 
+</div>
