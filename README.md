@@ -21,9 +21,9 @@ Imagens Mobile:
 Imagens WEB
 
 <div align="center">
-    <img src="/../master/WEB1.PNG" width="800px" height="1600px"/>
+    <img src="/../master/WEB1.PNG"/>
 </div>
 
 <div align="center">
-    <img src="/../master/WEB2.PNG" width="800px" height="800px"/>
+    <img src="/../master/WEB2.PNG"/>
 </div>
