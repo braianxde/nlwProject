@@ -5,7 +5,7 @@ Projeto desenvolvido apartir do Evento feito pela RocketSeat: Next Level Week
 O intuito do projeto e de criar um Website para cadastro de pontos de coleta, uma API para manipular os dados e um aplicativo mobile para visualizar o pontos de coleta e fazer interacoes
 
 
-![Alt text](/../master/MOBO1?raw=true)
+![Alt text](/../master/MOBO1.jpg?raw=true)
 
 ![Alt text](https://imgur.com/dFz05s6)
 
