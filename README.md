@@ -14,6 +14,6 @@ Imagens Mobile:
 
 Imagens WEB
 
-![Alt text](/../master/WEB1.png?raw=true)
+![Alt text](/../master/WEB1.PNG?raw=true)
 
-![Alt text](/../master/WEB2.png?raw=true)
+![Alt text](/../master/WEB2.PNG?raw=true)
