@@ -7,23 +7,23 @@ O intuito do projeto e de criar um Website para cadastro de pontos de coleta, um
 Imagens Mobile:
 
 <div align="center">
-    <img src="/../master/MOBO1.jpg" width="400px"</img> 
+    <img src="/../master/MOBO1.jpg" width="400px" height="800px"/>
 </div>
 
 <div align="center">
-    <img src="/../master/MOBO2.jpeg" width="400px"</img> 
+    <img src="/../master/MOBO2.jpeg" width="400px" height="800px"/>
 </div>
 
 <div align="center">
-    <img src="/../master/MOBO3.jpeg" width="400px"</img> 
+    <img src="/../master/MOBO3.jpeg" width="400px" height="800px"/>
 </div>
 
 Imagens WEB
 
 <div align="center">
-    <img src="/../master/WEB1.PNG" width="400px"</img> 
+    <img src="/../master/WEB1.PNG" width="800px" height="1600px"/>
 </div>
 
 <div align="center">
-    <img src="/../master/WEB2.PNG" width="400px"</img> 
+    <img src="/../master/WEB2.PNG" width="800px" height="800px"/>
 </div>
